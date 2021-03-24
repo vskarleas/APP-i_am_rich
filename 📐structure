@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T12:08:16.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="hNDS61AWPfQEJ4ZFyLFH" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T12:09:35.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="coRBMNGBzi_M536PIHij" version="14.5.1" type="github">
   <diagram id="POCI4hrXBnmRtsY1W4T0" name="Page-1">
     <mxGraphModel dx="946" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="KA-h5DI1XewVhTXF7TJD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KA-h5DI1XewVhTXF7TJD-1" target="KA-h5DI1XewVhTXF7TJD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KA-h5DI1XewVhTXF7TJD-1" value="Material App" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KA-h5DI1XewVhTXF7TJD-1" value="Material App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="279" y="70" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KA-h5DI1XewVhTXF7TJD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KA-h5DI1XewVhTXF7TJD-2" target="KA-h5DI1XewVhTXF7TJD-4" edge="1">
@@ -19,10 +19,10 @@
         <mxCell id="KA-h5DI1XewVhTXF7TJD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KA-h5DI1XewVhTXF7TJD-2" target="KA-h5DI1XewVhTXF7TJD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KA-h5DI1XewVhTXF7TJD-2" value="Scaffold" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="KA-h5DI1XewVhTXF7TJD-2" value="Scaffold" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KA-h5DI1XewVhTXF7TJD-4" value="Color" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="KA-h5DI1XewVhTXF7TJD-4" value="Color" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KA-h5DI1XewVhTXF7TJD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KA-h5DI1XewVhTXF7TJD-6" target="KA-h5DI1XewVhTXF7TJD-14" edge="1">
@@ -33,13 +33,13 @@
             <mxPoint x="280" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KA-h5DI1XewVhTXF7TJD-6" value="AppBar" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="KA-h5DI1XewVhTXF7TJD-6" value="AppBar" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KA-h5DI1XewVhTXF7TJD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KA-h5DI1XewVhTXF7TJD-8" target="KA-h5DI1XewVhTXF7TJD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KA-h5DI1XewVhTXF7TJD-8" value="Center" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="KA-h5DI1XewVhTXF7TJD-8" value="Center" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="549" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KA-h5DI1XewVhTXF7TJD-10" value="Image" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
