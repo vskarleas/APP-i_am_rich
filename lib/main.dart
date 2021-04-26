@@ -9,7 +9,7 @@ void main() {
           title: Text('I am reach'),
           backgroundColor: Colors.blueGrey[900],
         ),
-        backgroundColor: Colors.lightBlue,
+        backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
             image: AssetImage('images/diamond.png'),
