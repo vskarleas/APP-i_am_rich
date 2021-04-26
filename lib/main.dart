@@ -9,11 +9,10 @@ void main() {
           title: Text('I am reach'),
           backgroundColor: Colors.blueGrey[900],
         ),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.lightBlue,
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://flutter-app.s3.us-west-000.backblazeb2.com/unnamed.png'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
